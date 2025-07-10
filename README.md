@@ -21,7 +21,7 @@ Este portafolio reúne proyectos que reflejan mis habilidades actuales, así com
 
 ##  Otros proyectos
 
-###  [Sistema de pedidos automatizado con Excel](https://github.com/Pedidos-automatizados)
+###  [Sistema de pedidos automatizado con Excel](https://github.com/rmartinezt1936/Pedidos-automatizados
 > Herramienta desarrollada en Excel para automatizar la generación de pedidos en una ferretería. Incluye validaciones, fórmulas condicionales y tablas dinámicas para facilitar el control de inventario y optimizar tiempos.
 
 ---
