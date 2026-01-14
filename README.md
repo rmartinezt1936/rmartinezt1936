@@ -1,6 +1,6 @@
 # Portafolio Profesional – Rogelio Martínez
 
-¡Hola! Soy Ingeniero Administrador en Tecnologías de la Información con experiencia práctica en automatización de procesos, consumo de APIs y manejo de datos.
+Soy Ingeniero Administrador en Tecnologías de la Información con experiencia práctica en automatización de procesos, consumo de APIs y manejo de datos.
 
 Este portafolio reúne proyectos que reflejan mis habilidades actuales, así como mi enfoque proactivo por seguir aprendiendo e implementando soluciones reales.
 
